@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>taotao.com</groupId>
+  <artifactId>sso-interface</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190304154119</lastUpdated>
+  </versioning>
+</metadata>
